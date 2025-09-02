@@ -7,8 +7,8 @@ import AdminPost from "./pages/AdminPost"
 import Notfound from "./pages/Notfound"
 import AuthRedirectRoute from './routes/AuthRedirectRoute'
 import RequireAuth from './routes/RequireAuth'
-import "./style/common.scss"
 import "./style/_themes.scss"
+import "./style/common.scss"
 import "./style/main.scss"
 function App() {
 
